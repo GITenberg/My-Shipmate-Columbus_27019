@@ -1,0 +1,41 @@
+_repo: My-Shipmate-Columbus_27019
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Llewellyn
+    gutenberg_agent_id: '32346'
+    url: http://www.gutenberg.org/2009/agents/32346
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Ridgway, Jason
+    - Lesser, Milton
+    - Wilder, Stephen
+    - Chase, Adam
+    - Thames, C. H.
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Columbus, Christopher -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: My Shipmate—Columbus
+url: http://www.gutenberg.org/ebooks/27019
